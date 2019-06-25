@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: qzl
+# 配置swagger开关
+swagger:
+  enabled: true
+
+qzl:
+  name: qiangzhouliang
